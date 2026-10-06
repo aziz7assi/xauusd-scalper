@@ -1,0 +1,19 @@
+{
+  "symbol": "XAUUSD.vx",
+  "timeframe": "M1",
+  "server_tz_mode": "ny+7",
+  "exported_at_utc": "2026-10-06T10:12:43+00:00",
+  "rows": 1057667,
+  "first_utc": "2023-10-08 21:00:00+00:00",
+  "last_utc": "2026-10-06 07:11:00+00:00",
+  "digits": 2,
+  "point": 0.01,
+  "trade_contract_size": 100.0,
+  "trade_tick_value": 1.0,
+  "trade_tick_size": 0.01,
+  "volume_min": 0.01,
+  "volume_step": 0.01,
+  "volume_max": 50.0,
+  "trade_stops_level": 31,
+  "currency_profit": "USD"
+}
